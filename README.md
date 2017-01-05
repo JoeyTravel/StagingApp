@@ -7,3 +7,4 @@
  * [NPM for Websockets](https://www.npmjs.com/package/websocket)
  * [Websockets sample](https://blog.idrsolutions.com/2013/12/websockets-an-introduction/)
  * [Preact getting-started](https://preactjs.com/guide/getting-started)
+ * [Preact Setup](https://download.github.io/preact-layout/docs/getting-started/Setup.html)
