@@ -9,3 +9,4 @@
  * [Preact getting-started](https://preactjs.com/guide/getting-started)
  * [Preact Setup](https://download.github.io/preact-layout/docs/getting-started/Setup.html)
  * [React Under the Hood - by Freddy Rangel](file:///Users/Downloads/reactunderthehood.pdf)
+ * [Valerie Karpov's repos](https://github.com/vkarpov15?tab=repositories)
