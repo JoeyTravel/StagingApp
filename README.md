@@ -11,3 +11,4 @@
  * [React Under the Hood - by Freddy Rangel](file:///Users/Downloads/reactunderthehood.pdf)
  * [Valerie Karpov's repos](https://github.com/vkarpov15?tab=repositories)
  * [Inferno installation](https://infernojs.org/docs/guides/installation)
+ * [Github Cheatsheet](https://github.com/tiimgreen/github-cheat-sheet)
