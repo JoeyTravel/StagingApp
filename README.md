@@ -15,3 +15,6 @@
  
 #
  * [React by Brian Holt](https://btholt.github.io/complete-intro-to-react/all.html)
+ 
+# Meetups
+ * [Preact, Inferno, and Async Redux](https://www.meetup.com/jsmeetup/events/236129357/)
