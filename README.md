@@ -12,3 +12,6 @@
  * [Valerie Karpov's repos](https://github.com/vkarpov15?tab=repositories)
  * [Inferno installation](https://infernojs.org/docs/guides/installation)
  * [Github Cheatsheet](https://github.com/tiimgreen/github-cheat-sheet)
+ 
+#
+ * [React by Brian Holt](https://btholt.github.io/complete-intro-to-react/all.html)
