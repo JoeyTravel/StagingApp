@@ -64,6 +64,10 @@ App stack:
 ```shell
 yarn add react
 ```
+```shell
+npm install --global yarn
+```
+
 #
 
 
