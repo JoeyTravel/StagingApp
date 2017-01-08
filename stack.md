@@ -16,27 +16,35 @@ alert(s);
 
 *put*
  **put**
+#
 
 App stack:
 
 1. React
+#
 2. node.js
+#
 3. express
+#
 4. redux
+#
 5. WebPack
+#
 6. Mocha
+#
 7. Enzyme
+#
 8. npm
+#
 9. react-router
+#
 10. AWS
+#
 11. Yarn - replaces the usage of the npm CLI client 
 ```shell
 yarn add react
 ```
-		
-12. 
-
-
+#
 
 
 
