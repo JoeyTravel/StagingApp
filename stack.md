@@ -12,7 +12,7 @@ createElement = to create an instance of that class, resulting in an element tha
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
-
+*put*
 
 
 App stack:
