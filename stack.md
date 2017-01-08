@@ -89,8 +89,8 @@ linting tools programatically checks for certain violations of code style in you
 it makes sure there are no unused variables and there is use of undeclared variabels in code
 https://github.com/feross/standard/blob/master/RULES.md#javascript-standard-style
 
-`standard`
-`standard --fix`
+ * `standard`
+ * `standard --fix`
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
 " target="_blank"><img src="http://img.youtube.com/vi/v=4ZAEBxGipoA/0.jpg" 
