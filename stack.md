@@ -8,6 +8,11 @@ createClass = to create a component
 
 createElement = to create an instance of that class, resulting in an element that can be used in other components
 
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+
 
 
 App stack:
@@ -23,5 +28,8 @@ App stack:
 9. react-router
 10. AWS
 11. Yarn - replaces the usage of the npm CLI client 
+```shell
+yarn add react
+```
 		
 12. 
