@@ -71,7 +71,22 @@ npm install --global yarn
 #
 
 Yarn is 100% deterministic.  npm's installs are nondeterministic (install in different wyas from different states)..
+
+#### *yarn installs*
 Run `yarn` from the directory where you downloaded the repo.
+
+#### *yarn global installs*
+```shell
+yarn global add jest@v16.0.2
+yarn global add nodemon
+yarn global add webpack@v2.1.0-beta.25
+yarn global add standard@v8.4.0
+```
+### tooling
+#### *standard*
+standard is a linting tool.  `yarn global add standard` is a wrapper around a pre-configured **eslint**
+linting tools programatically checks for certain violations of code style in your code
+it makes sure there are no unused variables and there is use of undeclared variabels in code
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
