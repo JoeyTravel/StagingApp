@@ -70,6 +70,8 @@ npm install --global yarn
 
 #
 
+Yarn is 100% deterministic.  npm's installs are nondeterministic (install in different wyas from different states)..
+Run `yarn` from the directory where you downloaded the repo.
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
