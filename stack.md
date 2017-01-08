@@ -13,11 +13,9 @@ var s = "JavaScript syntax highlighting";
 alert(s);
 ```
 
-```javascript
-var s = "JavaScript syntax highlighting"; alert(s);```
 
 *put*
-
+ **put**
 
 App stack:
 
