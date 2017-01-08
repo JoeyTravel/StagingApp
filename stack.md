@@ -87,7 +87,10 @@ yarn global add standard@v8.4.0
 standard is a linting tool.  `yarn global add standard` is a wrapper around a pre-configured **eslint**
 linting tools programatically checks for certain violations of code style in your code
 it makes sure there are no unused variables and there is use of undeclared variabels in code
+https://github.com/feross/standard/blob/master/RULES.md#javascript-standard-style
 
+`standard`
+`standard --fix`
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
 " target="_blank"><img src="http://img.youtube.com/vi/v=4ZAEBxGipoA/0.jpg" 
