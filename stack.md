@@ -20,34 +20,47 @@ alert(s);
 
 App stack:
 
-1. React
+ * React
 
 #
 
-2. node.js
-
-#
-3. express
+ * Node.js
 
 #
 
-4. redux
+ * Express
 
 #
 
-5. WebPack
+ * Redux
+
 #
-6. Mocha
+
+ * WebPack
+
 #
-7. Enzyme
+
+ * Mocha
+
 #
-8. npm
+
+ * Enzyme
+
 #
-9. react-router
+
+ * Npm
+
 #
-10. AWS
+
+ * React-router
+
 #
-11. Yarn - replaces the usage of the npm CLI client 
+
+ * AWS
+
+#
+
+ * Yarn - replaces the usage of the npm CLI client 
 ```shell
 yarn add react
 ```
@@ -56,5 +69,5 @@ yarn add react
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+" target="_blank"><img src="http://img.youtube.com/vi/v=4ZAEBxGipoA/0.jpg" 
+alt="React Tutorial 1 - Introduction" width="240" height="180" border="10" /></a>
