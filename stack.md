@@ -21,13 +21,20 @@ alert(s);
 App stack:
 
 1. React
+
 #
+
 2. node.js
+
 #
 3. express
+
 #
+
 4. redux
+
 #
+
 5. WebPack
 #
 6. Mocha
