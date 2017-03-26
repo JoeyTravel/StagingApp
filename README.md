@@ -1,5 +1,5 @@
 
-# StagingApp Overview
+# Staging App Overview
 
 # React
 
