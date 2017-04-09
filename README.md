@@ -2,9 +2,9 @@
 # Staging App Overview
 
 # React
-#
+
  * [React Native](https://facebook.github.io/react-native/)
-#
+
 
 
 ## Quick Links:
