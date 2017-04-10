@@ -6,7 +6,6 @@
  * [React Native](https://facebook.github.io/react-native/)
 
 
-
 ## Quick Links:
 
  * [ES6 Generators](http://thecodebarbarian.com/introducing-80-20-guide-to-es2015-generators)
